@@ -1,0 +1,65 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wp-goo.gl\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-04-19 11:15+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: 董立强 <jessica.dlq@gmail.com>\n"
+"Language-Team: Jessica <jessica.dlq@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: Chinese\n"
+"X-Poedit-Country: China\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: wp-goo.gl.php:19
+msgid "Access Denied"
+msgstr "链接被阻止！可能是由于您没有权限！"
+
+#: wp-goo.gl.php:24
+msgid "WARNING"
+msgstr "警告"
+
+#: wp-goo.gl.php:25
+msgid "wp-goo.gl can not run on the server because The cURL functions are NOT available!"
+msgstr "cURL扩展没有开启，wp-goo.gl无法运行！"
+
+#: wp-goo.gl.php:40
+msgid "Saved Settings Successfully!"
+msgstr "设置成功！"
+
+#: wp-goo.gl.php:49
+msgid "wp-goo.gl options"
+msgstr "wp-goo.gl 设置"
+
+#: wp-goo.gl.php:53
+msgid "open in posts"
+msgstr "在文章中打开"
+
+#: wp-goo.gl.php:54
+msgid "you can use [goo.gl][/goo.gl] in your posts."
+msgstr "在文章发布时您可以使用 [goo.gl][/goo.gl] 标签。"
+
+#: wp-goo.gl.php:59
+msgid "open in comments"
+msgstr "在评论中打开"
+
+#: wp-goo.gl.php:60
+msgid "If you turn this option on, all links in comments will be automatically converted to goo.gl short URL."
+msgstr "如果您打开此选项，所有发布在评论中的链接都将会自动转换成goo.gl短网址！"
+
+#: wp-goo.gl.php:67
+msgid "Update Options"
+msgstr "提交设置"
+
+#: wp-goo.gl.php:77
+msgid "wp-goo.gl Options"
+msgstr "wp-goo.gl选项"
+
+#: wp-goo.gl.php:77
+msgid "wp-goo.gl"
+msgstr "wp-goo.gl"
+
